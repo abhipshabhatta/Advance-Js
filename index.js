@@ -14,7 +14,7 @@ userOne.age = 30;
 const sports = ["tennis", "golf", "volleyball"];
 sports.push("test");
 
-const foundSport = sports.indexOf("test")
+const foundSport = sports.indexOf("superman")
 console.log(foundSport);
 
 
